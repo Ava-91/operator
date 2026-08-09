@@ -7,7 +7,6 @@ approvers:
 - HeavyWombat
 - sayan-biswas
 - hasanawad94
-- ayushsatyam146
 - IrvingMg
 
 reviewers:
@@ -17,7 +16,6 @@ reviewers:
 - HeavyWombat
 - sayan-biswas
 - hasanawad94
-- ayushsatyam146
 - kaizakin
 
 emeritus_approvers:
@@ -25,3 +23,7 @@ emeritus_approvers:
 - sbose78 #2022-09-12
 - jkhelil
 - coreydaley
+- ayushsatyam146 # 2026-08-09
+
+emeritus_reviewers:
+- ayushsatyam146 # 2026-08-09
