@@ -6,7 +6,6 @@ approvers:
 - SaschaSchwarze0
 - HeavyWombat
 - sayan-biswas
-- hasanawad94
 - IrvingMg
 
 reviewers:
@@ -15,8 +14,8 @@ reviewers:
 - SaschaSchwarze0
 - HeavyWombat
 - sayan-biswas
-- hasanawad94
 - kaizakin
+- IrvingMg
 
 emeritus_approvers:
 - adambkaplan # 2026-06-17
@@ -24,6 +23,8 @@ emeritus_approvers:
 - jkhelil
 - coreydaley
 - ayushsatyam146 # 2026-08-09
+- hasanawad94 # 2026-08-09
 
 emeritus_reviewers:
 - ayushsatyam146 # 2026-08-09
+- hasanawad94 # 2026-08-09
